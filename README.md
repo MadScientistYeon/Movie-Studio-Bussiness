@@ -2,7 +2,7 @@
 ![example](images/FoxStudio.webp)
 # Microsoft studio needs movie analysis,
 
-**Authors:** Yeonjae Zhang, Caleb
+**Authors:** Yeonjae Zhang, Caleb Harris
 ***
 ## Overview
 
@@ -11,7 +11,6 @@ This analysis is made for suggesting mircosoft studio the goals and business dir
 ## Business Problem
 
 Microsoft is willing to create original video content and they want to do successful business.
-
 Find partner studio
 Budget recommendation
 Find high gross genres
@@ -24,7 +23,7 @@ Box Office Mojo has the longest running dataset of movie gross for money from th
 
 This projects uses the descriptive analysis with historical movie data. This provides useful overview of suggestions.
 
-## Results"
+## Results
 There are Top 5 studios that made money more than 100 mil each movies. Introduce 5 studios [UTV, WB, Gitindia, Uni., Par.]
 ![ROI](images/ROI.png)
 
@@ -32,7 +31,7 @@ UTV : 10 mil, WB : 50 mil, Gitindia : 30 mil, Uni. : 50 mil, Par. : 60 mil
 ![Budget](images/Budget.png)
 
 This analysis shows the 3 genres that made money the best. I recommend the combination of Animation, Adventure and Sci-Fi. This combination will lead microsoft studio to success.
-![Genre](images/Genres.png)
+![Genre](images/Genre.png)
 
 ## Conclusions
 This analysis leads to three recommendations for movie studio business:
