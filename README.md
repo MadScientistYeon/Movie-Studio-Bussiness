@@ -43,4 +43,4 @@ This analysis leads to three recommendations for movie studio business:
 
 ### Sources
 1. [Code](Submit/project.pdf) 
-2. [Presentation](Submit/presentation.pdfpresentation.pdf)
+2. [Presentation](Submit/presentation.pdf)
