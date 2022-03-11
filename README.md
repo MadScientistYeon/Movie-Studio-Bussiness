@@ -42,5 +42,5 @@ This analysis leads to three recommendations for movie studio business:
 * **Recommend successful movie genre combination.** This analysis shows the 3 genres that made money the best. I recommend the combination of Animation, Adventure and Sci-Fi. This combination will lead microsoft studio to success.
 
 ### Sources
-[Code](Submit/project.ipynb)
+[Code](Submit/project.pdf) \n
 [Presentation](Submit/presentation.pdfpresentation.pdf)
