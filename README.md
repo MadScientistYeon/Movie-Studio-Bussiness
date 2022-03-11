@@ -40,3 +40,7 @@ This analysis leads to three recommendations for movie studio business:
 * **This analysis suggests that microsoft studio make a movie with partnership** There are Top 5 studios that made money more than 100 mil each movies. Introduce 5 studios [UTV, WB, Gitindia, Uni., Par.]
 * **This analysis suggests budgets with the introduced partner studios.**  UTV : 10 mil, WB : 50 mil, Gitindia : 30 mil, Uni. : 50 mil, Par. : 60 mil There is a budget range from 30 mil to 60 mil. UTV is an outliner
 * **Recommend successful movie genre combination.** This analysis shows the 3 genres that made money the best. I recommend the combination of Animation, Adventure and Sci-Fi. This combination will lead microsoft studio to success.
+
+### Sources
+[Code](Submit/project.ipynb)
+[Presentation](Submit/presentation.pdfpresentation.pdf)
